@@ -1,8 +1,8 @@
 # Hodu-homepage
 my dogs hompage
-<H1>hi</H1>
+<H1>hi *okok*</H1>
 <Alt-H1>
-*okok*
+
 homepage URL : https://yunholeeme.github.io/Hodu-homepage/
 
 # screenshot
